@@ -11,7 +11,7 @@ public class Main {
         System.out.println(s1==s2);
         System.out.println(s1.equals(s2));
 
-
+// in this == will compare addresses:
 
 
     }
